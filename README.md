@@ -96,4 +96,8 @@ $ npm run start
 $ npm run generate
 ```
 
-### `Thankyou Elemes.id for the opportunity!`
+### `Input for Elemes.id Website`
+
+this is my personal opinion; I think Elemes.id need a clear call to action section instead of email inputs. That's it!
+
+# `Thankyou Elemes.id for the opportunity!`
