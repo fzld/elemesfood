@@ -1,5 +1,9 @@
 <template>
-  <BottomNavigation/>
+  <div class="">
+    <LandingHero/>
+    <CardOverflow/>
+    <CardGrid/>
+  </div>
 </template>
 
 <script>

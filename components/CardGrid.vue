@@ -12,7 +12,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                     <div class="flex justify-center items-center">
                         <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-pizza overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                          <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group.png" alt="" />
+                          <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group.png" alt="" />
                           <div class="p-4 bg-elemes-pizza">
                             <h1 class="font-bold text-base">Pizza Paperoni</h1>
                             <p class="text-xs font-semibold text-elemes-green">Pizza</p>
@@ -26,7 +26,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-pizza overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-1.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-1.png" alt="" />
                         <div class="p-4 bg-elemes-pizza">
                           <h1 class="font-bold text-base">Pizza Meat</h1>
                           <p class="text-xs font-semibold text-elemes-green">Pizza</p>
@@ -40,7 +40,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-kebab overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-2.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-2.png" alt="" />
                         <div class="p-4 bg-elemes-kebab">
                           <h1 class="font-bold text-base">Doner Kebab</h1>
                           <p class="text-xs font-semibold text-elemes-green">Kebab</p>
@@ -54,7 +54,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-salmon overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-3.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-3.png" alt="" />
                         <div class="p-4 bg-elemes-salmon">
                           <h1 class="font-bold text-base">Salmon Roll</h1>
                           <p class="text-xs font-semibold text-elemes-green">Salmon</p>
@@ -68,7 +68,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-cupcake overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-4.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-4.png" alt="" />
                         <div class="p-4 bg-elemes-cupcake">
                           <h1 class="font-bold text-base">Cupcake Choco</h1>
                           <p class="text-xs font-semibold text-elemes-green">Cupcake</p>
@@ -82,7 +82,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-doughnut overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-5.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-5.png" alt="" />
                         <div class="p-4 bg-elemes-doughnut">
                           <h1 class="font-bold text-base">Doughnut Milk</h1>
                           <p class="text-xs font-semibold text-elemes-green">Doughnut</p>
@@ -96,7 +96,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-doughnut overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-6.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-6.png" alt="" />
                         <div class="p-4 bg-elemes-doughnut">
                           <h1 class="font-bold text-base">Doughnut Uncorn</h1>
                           <p class="text-xs font-semibold text-elemes-green">Doughnut</p>
@@ -110,7 +110,7 @@
                 <div class="flex flex-col items-center justify-center col-span-1">
                   <div class="flex justify-center items-center">
                       <div class="w-80 sm:w-60 rounded-xl cursor-pointer shadow-lg bg-elemes-kebab overflow-hidden hover:shadow-xl transform hover:scale-105 duration-500">
-                        <img class="m-4 w-1/2 rounded-md" src="/public/thumbnail/Mask Group-7.png" alt="" />
+                        <img class="m-4 w-1/2 rounded-md" src="~assets/images/thumbnail/Mask Group-7.png" alt="" />
                         <div class="p-4 bg-elemes-kebab">
                           <h1 class="font-bold text-base">Kathi Kebab</h1>
                           <p class="text-xs font-semibold text-elemes-green">Kebab</p>

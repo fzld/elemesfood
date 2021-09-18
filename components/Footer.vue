@@ -66,9 +66,9 @@
                   <p class="text-xs">Get now free 50% discount for alll products on your first order</p>
                 </li>
                 <li>
-                  <form class="justify-start bg-white rounded-lg text-sm my-4">
+                  <form class="bg-white rounded-lg text-sm my-4">
                     <input placeholder="Your email address" class="w-3/4 rounded-md px-2">
-                    <button class="bg-elemes-green text-white px-0 xl:px-3 py-2 rounded-r-lg" type="submit">
+                    <button class="bg-elemes-green text-white px-0 xl:px-2 py-2 rounded-r-lg" type="submit">
                         SEND
                     </button>
                 </form>
