@@ -1,5 +1,5 @@
 <template>
-  <CardOverflow/>
+  <BottomNavigation/>
 </template>
 
 <script>
