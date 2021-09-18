@@ -14,7 +14,7 @@
 
   .herobg::before {    
     content: "";
-    background-image: url('/public/hero-bg.png');
+    background-image: url('static/hero-bg.png');
     background-size: cover;
     position: absolute;
     top: 0px;
