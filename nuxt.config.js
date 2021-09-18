@@ -12,7 +12,9 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/svg', href: '/logo.svg' },
+      { rel: 'stylesheet', type: ' text/css', href: '~/assets/css/style.css'},
+      { rel: 'stylesheet', type: ' text/css', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css'}
     ]
   },
 

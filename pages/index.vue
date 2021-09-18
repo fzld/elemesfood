@@ -1,5 +1,5 @@
 <template>
-  <LandingHero/>
+  <CardOverflow/>
 </template>
 
 <script>
