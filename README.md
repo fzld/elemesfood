@@ -1,10 +1,10 @@
-# Elemes Food // Recipe
+# 🍳🍳 Elemes Food // Recipe 🍳🍳
 
 This website is built in order to finish a challenge from Elemes.id for Frontend Developer position. 
 Built with Nuxt and Tailwind, also deployed to Heroku.
 
 <p align="center">
-  <img src=".assets/doc/landing.png" alt="Landing page" width="740">
+  <img src="https://raw.githubusercontent.com/fzld/elemesfood/main/assets/doc/landing.PNG" alt="Landing page" width="740">
 </p>
 
 ## Workflow
@@ -30,11 +30,11 @@ $ npx tailwindcss init
 Setup for the colors and font is done by tailwind config by doing this to make stylesheet output
 
 <p align="center">
-  <img src=".assets/doc/build.png" alt="Landing page" width="740">
+  <img src="https://raw.githubusercontent.com/fzld/elemesfood/main/assets/doc/build.PNG" alt="build:tailwind" width="740">
 </p>
 
 <p align="center">
-  <img src=".assets/doc/theme.png" alt="Landing page" width="740">
+  <img src="https://raw.githubusercontent.com/fzld/elemesfood/main/assets/doc/theme.PNG" alt="theme" width="740">
 </p>
 
 ## `Heroku Deployment`
@@ -63,21 +63,21 @@ For the difficulties that I face during this challenge is actually on some break
 I still figuring out how to make this overflow container scrollable and swipeable without showing the scrolls and with buttons as well.
 
 <p align="center">
-<img src=".assets/doc/cardoverflow.png"
+<img src="https://raw.githubusercontent.com/fzld/elemesfood/main/assets/doc/cardoverflow.PNG"
   width="686" height="289">
 </p>
 
 And I have a little bit of problem with label form on the footer
 
 <p align="center">
-<img src=".assets/doc/footer.png"
+<img src="https://raw.githubusercontent.com/fzld/elemesfood/main/assets/doc/footer.PNG"
   width="686" height="289">
 </p>
 
 ### `potential`
 
 I think I should've make data.js and use v-for for the cards, it would be better.
-And I still look for the solution for the problem that I mention above.
+And I still look for the solution for the problem that I mention above for the time left.
 
 ### Installation
 
